@@ -1,2 +1,10 @@
 # user-scripts
 User Scripts to help you.
+--------------------------
+YOU USE THIS SCRIPT KNOWING
+THE FOLLOWING CANNOT BE 
+PROHIBITED:
+
+1. POSTING THIS AS YOUR OWN
+2. MAKING CHANGES AND POSTING IT UNDER MY NAME
+Thanks!
