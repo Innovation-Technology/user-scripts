@@ -1,0 +1,53 @@
+(function () {
+
+// ==UserScript==
+// @name          V 1.0 Virus Protection
+// @namespace     HHVP
+// @description   JavaScript alert box saying warning about malicous websites.
+// @copyright     2017+, VC Development Team (https://openuserjs.org/users/XxhelpfordecadesxX)
+// @license       Version 1 or any later version; http://www.gnu.org/copyleft/gpl.html
+// @version       0.0.1
+// @icon          https://stixproject.github.io/images/Malware.png
+
+// @homepageURL   https://github.com/Innovation-Technology/user-scripts/new/master
+// @supporturl    https://moderator9191.wixsite.com/vcsupport
+
+// @include   https://www.download.com/*
+// @include   http://amazon-sicherheit.kunden-ueberpruefung.xyz*
+// @include   http://sarahdaniella.com/swift/SWIFT%20$.pdf.ace*
+// @include   http://alegroup.info/ntnrrhst
+// @include   http://fourthgate.org/Yryzvt
+// @include   http://dieutribenhkhop.com/parking/
+// @include   http://dieutribenhkhop.com/parking/pay/rd.php?id=10
+// @include   http://ssl-6582datamanager.de/
+// @include   http://privatkunden.datapipe9271.com/
+// @include   http://www.hjaoopoa.top/admin.php?f=1.gif
+// @include   http://up.mykings.pw:8888/update.txt
+// @include   http://down.mykings.pw:8888/ver.txt
+// @include   http://down.mykings.pw:8888/ups.rar
+// @include   http://fo5.a1-downloader.org/g2v9s1.php?id=yourname@yourdomain.com
+// @include   http://falconsafe.com.sg/api/get.php?id=aW5mb0BzYXBjdXBncmFkZXMuY29t
+// @include   http://download.cnet.com/
+// @include   http://download.cnet.com/windows/
+// @include   http://download.cnet.com/ios/
+// @include   http://download.cnet.com/android/
+// @include   http://download.cnet.com/mac/
+// @include   https://pastebin.com/search?q=memz+batch+code
+// @include   https://pastebin.com/jgUahv4S
+// @include   https://mega.nz/#!BSJjWaIL!a2or0xzGJaS0CxCHri0cLwS4LFhqQQrTKotFro7hWQk    
+// @author VC Development Team
+
+// @updateURL  https://github.com/Innovation-Technology/user-scripts/blob/master/V%201.0%20Virus%20Protection
+
+// ==/UserScript==
+
+// ==OpenUserJS==
+// @author VC Development
+// ==/OpenUserJS==
+
+
+  alert('This website contains a virus that could harm your computer!');
+  alert('This virus is dangerous!');
+  alert('THIS IS YOUR LAST WARNING!');
+
+})();
